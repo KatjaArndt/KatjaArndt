@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Fitness, Family, Adventure and Peanut Butter
 - 🌱 I’m currently learning everything from scratch
 - 💞️ I’m looking to collaborate on...I really don´t know yet.
-- 📫 How to reach me: insta @vaka_virtuelleassistentin
+- 📫 How to reach me: katja@vakavirtuelleassistentin.de
 
 <!---
 KatjaArndt/KatjaArndt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
